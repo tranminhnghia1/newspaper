@@ -1,0 +1,60 @@
+/* in hoa in thường */
+.text-uppercase{
+    text-transform: uppercase;
+}
+.text-lowercase{
+    text-transform: lowercase;
+}
+.text-capitalize{
+    text-transform: capitalize;
+}
+/* in đậm */
+.font-weight-bold{
+    font-weight: bold;
+}
+.font-weight-normal{
+    font-weight: normal;
+}
+.font-weight-light{
+    font-weight: 300;
+}
+/* in nghiêng */
+.text-italic{
+    font-style: italic;
+}
+/* đường gạch ngang */
+.text-overline {
+    text-decoration: overline;
+}
+.text-line-through {
+    text-decoration: line-through;
+}
+.text-underline {
+    text-decoration: underline;
+}
+.text-decoration-style{
+    text-decoration-style: solid;
+}
+/* căn chỉnh */
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-justify {
+    text-align: justify;
+}
+/* justify-content */
+.text-justify-content{
+    justify-content: space-between;
+}
+.d-flex{
+    display: flex;
+}
